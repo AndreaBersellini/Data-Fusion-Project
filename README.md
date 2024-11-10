@@ -1,6 +1,6 @@
 # Data-Fusion-Project
 
-utils.py - Contiene le costanti (es. image size) e le funzioni per calibrare e riconoscere i punti.
+utils.py - Contiene le costanti (es. image size) e le funzioni per calibrare e riconoscere i punti.\n
 kinect_image_conversion.py - Converte le immagini "raw" del kinect da formato .txt a .png
 fusion.ipynb (jupiter notebook) - Contiene la struttura principale dell'applicazione
 
