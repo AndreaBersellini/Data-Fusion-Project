@@ -1,0 +1,51 @@
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\bin\Debug\InfraredBasics-WPF.exe.config
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\bin\Debug\InfraredBasics-WPF.exe
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\bin\Debug\InfraredBasics-WPF.pdb
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF_MarkupCompile.cache
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF.g.resources
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.InfraredBasics.Properties.Resources.resources
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\Infrared.CCACB279.Up2Date
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF.exe
+C:\Users\andre\Desktop\Nuova cartella\InfraredBasics-WPF\obj\Debug\InfraredBasics-WPF.pdb
+C:\Users\andre\Desktop\Nuova cartella\backups\bin\Debug\InfraredBasics-WPF.exe.config
+C:\Users\andre\Desktop\Nuova cartella\backups\bin\Debug\InfraredBasics-WPF.exe
+C:\Users\andre\Desktop\Nuova cartella\backups\bin\Debug\InfraredBasics-WPF.pdb
+C:\Users\andre\Desktop\Nuova cartella\backups\bin\Debug\Microsoft.Kinect.dll
+C:\Users\andre\Desktop\Nuova cartella\backups\bin\Debug\Microsoft.Kinect.xml
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF_MarkupCompile.cache
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF.g.resources
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\Microsoft.Samples.Kinect.InfraredBasics.Properties.Resources.resources
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\Infrared.CCACB279.Up2Date
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF.exe
+C:\Users\andre\Desktop\Nuova cartella\backups\obj\Debug\InfraredBasics-WPF.pdb
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\bin\Debug\InfraredBasics-WPF.exe.config
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\bin\Debug\InfraredBasics-WPF.exe
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\bin\Debug\InfraredBasics-WPF.pdb
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\bin\Debug\Microsoft.Kinect.dll
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\bin\Debug\Microsoft.Kinect.xml
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\MainWindow.baml
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\MainWindow.g.cs
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\App.g.cs
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF_MarkupCompile.cache
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF.g.resources
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\Microsoft.Samples.Kinect.InfraredBasics.Properties.Resources.resources
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\Infrared.CCACB279.Up2Date
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF.exe
+C:\Users\andre\Desktop\Data_Fusion_Project\KinectAcquisition\obj\Debug\InfraredBasics-WPF.pdb
