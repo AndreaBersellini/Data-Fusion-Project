@@ -12,3 +12,12 @@ Directory Kinect_Images_Measured - Contiene le raw images acquisite dal kinect (
 
 Directory Images - Contiene le immagini per la calibrazione, per il testing e i risultati finali con le misurazioni predette.
 
+La struttura del main (fusion.ipynb) è la seguente:
+
+Vengono convertite le immagini da formato .txt a .png, in seguito viene dedotto il fattore di scala misurando il raggio del riferimento nell'immagine rgb e depth_map (intrinsic calibration) e le immagini vengino ridimensionate per ottenere una corrispondenza dei punti di riferimento.
+
+In seguito si procede con la calibrazione dei toni di grigio delle immagini depth_map (extrinsic calibration) per stabilire a che distaza corrisponde il valore 0 e 255, questo avviene misurando le distanze dei riferimenti delle immagini di calibrazione (assumendo un mapping lineare tra distanze e valori rgb) e calcolando i valori estrami in proporzione.
+
+Come ultimo passaggio, le immagini di testing vengono elaborate e viene detotta la distanza di ogni riferimento a partire dai dati di calibrazione.
+
+[La funzione di detection delle reference utilizza la libreria cv2 di python per localizzare cerchi nelle immagini]
